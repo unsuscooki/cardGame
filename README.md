@@ -1,2 +1,3 @@
 # cardGame
 
+Blackjake uyarlaması
